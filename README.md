@@ -14,4 +14,20 @@ To install this example application, run the following commands:
 
 * npm
   ```sh
+  git clone https://github.com/Alirezaeshaqi/tcp-gateway.git
+  
+  ``` 
+This will get a copy of the project installed locally.
+
+
+To run application you need to follow these steps:
+
+1. open termninal and use `docker load ******.tar` .This will load docker image from existing tar file.
+2. To run the client and all the servers,make sure docker-compose is installed on your machine and start containers with command :  `docker-compose up` . in order to run application 
+
+
+
+
+
+  
   
