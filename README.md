@@ -1,5 +1,5 @@
 # tcp-gateway
-docker based tcp gateway with load-balancing architecture using Spring Boot+Consul+HAProxy
+Docker based tcp gateway with load-balancing and Service Registry using Spring Boot + Consul + HAProxy
 
 
 ### Built With
@@ -31,7 +31,7 @@ To run application you need to follow these steps:
 ### Prerequisites
 
 In order to run this application you need to install docker and  docker-compose services on your machine.
-Its better to use linux distros because they are more handy and also more compatible with docker.  
+Its better to use linux distros because they are more handy and also more compatible with docker engine.  
 Install docker through this link if your Operating System is Debian based:
    https://docs.docker.com/engine/install/ubuntu/
 
